@@ -12,4 +12,6 @@ How was the time distributed (concept, model layer, view(s), game mechanics)
 
 because of limitations I did not have time to make Unit Testing and UI Testing.
 
-If I have more time I make unit tests, make the code more scalable and try to use SwiftUI (which I'm still learning at this point)
+If I have more time I make UI Test, make the code more scalable and try to use SwiftUI (which I'm still learning at this point)
+make a better UI and Animation.
+Fix the problem because (Decision was made due to limited time).
